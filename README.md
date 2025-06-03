@@ -1,1 +1,1 @@
-# 癫痫检测的硬件部分
+###  seizure detection （micropython）
